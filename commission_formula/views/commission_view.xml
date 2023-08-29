@@ -14,7 +14,10 @@
                       </field>
                 </group>
                 <group>
-                    <div attrs="{'invisible':[('commission_type','!=','formula')]}">
+                    <div
+                        attrs="{'invisible':[('commission_type','!=','formula')]}"
+                        colspan="2"
+                    >
                         <h2 name="hr_instructions">Instructions</h2>
                         <span class='instructions'>
   Use 'line' to access all the line fields.

@@ -4,3 +4,6 @@
 * `NextERP Romania <https://www.nexterp.ro>`_:
 
   * Fekete Mihai <feketemihai@nexterp.ro>
+* `Binhex Systems Solutions <https://www.binhex.es>`_:
+
+  * Jose Mendez <j.mendez@binhex.es>
